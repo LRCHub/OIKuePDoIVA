@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Water Lily",
+  "base_artist": "Aintops",
+  "createdAt": "2026-01-03T18:20:00.606650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Water Lily",
+      "artist": "Empyr",
+      "has_synced": true,
+      "path": "select/01_Water_Lily_Empyr.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Water Lily",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/02_Water_Lily_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Water lily",
+      "artist": "illion",
+      "has_synced": true,
+      "path": "select/03_Water_lily_illion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Water Lily",
+      "artist": "TRUSTRICK",
+      "has_synced": false,
+      "path": "select/04_Water_Lily_TRUSTRICK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Water Lily Tattoo",
+      "artist": "Icyboyrico",
+      "has_synced": false,
+      "path": "select/05_Water_Lily_Tattoo_Icyboyrico.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Dead, Dead, Water Lily Thing",
+      "artist": "Rockettothesky",
+      "has_synced": true,
+      "path": "select/06_The_Dead,_Dead,_Water_Lily_Thing_Rockettothesky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Water Lily (feat. okogeeechann)",
+      "artist": "Aintops",
+      "has_synced": false,
+      "path": "select/pl_01_Water_Lily_(feat._okogeeechann)_Aintops.txt"
+    }
+  ]
+}
